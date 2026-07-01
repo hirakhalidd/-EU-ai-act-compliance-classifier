@@ -99,7 +99,7 @@ Each AI system is assessed against 10 criteria mapped directly to EU AI Act arti
 
 ## The Tester's Perspective
 
-This project was approached as a **software testing exercise**, not a model-building exercise.
+This project was approached as a ** exercise**, not a model-building exercise.
 
 My contributions as a test lead:
 
@@ -143,7 +143,8 @@ Output: Console results + 4 charts saved as PNG
 
 ## Important Disclaimer
 
-> This is an **educational portfolio project** built to demonstrate AI testing and evaluation methodology. It is trained on synthetic (fictional) data and achieves 70% test accuracy with documented limitations.
+> This tool was built to help AI startups in Europe understand where they stand before the August 2, 2026 EU AI Act deadline — without needing to spend €3,000–€10,000 on a consultant for an initial assessment.
+It is based on synthetic data and achieves 70% accuracy — documented honestly in the defect reports above. It is designed as a first-pass awareness tool, not a replacement for legal advice. It is trained on synthetic (fictional) data and achieves 70% test accuracy with documented limitations.
 >
 > **It does not constitute legal advice and should never replace a qualified EU AI Act compliance assessment.** For binding compliance decisions, consult a qualified EU AI Act specialist.
 
@@ -159,11 +160,11 @@ Output: Console results + 4 charts saved as PNG
 
 ## About the Author
 
-Software Test Lead with 5 years of enterprise testing experience, specialising in AI system evaluation and EU AI Act compliance testing. Preparing for ISTQB CT-AI certification.
+Software Test Lead with 5 years of enterprise testing experience, specialising in AI system evaluation and EU AI Act compliance testing. 
 
 **Open to freelance AI testing and compliance review work in Germany.**
 
-📧 Connect on LinkedIn: [your LinkedIn URL]
+📧 Connect on LinkedIn: https://www.linkedin.com/in/hira-khalidd/
 
 ---
 
