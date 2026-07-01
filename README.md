@@ -154,7 +154,8 @@ It is based on synthetic data and achieves 70% accuracy — documented honestly 
 
 - **Python** — scikit-learn, pandas, numpy, matplotlib, seaborn
 - **HTML / JavaScript** — interactive chatbot (no frameworks)
-- **Claude AI (Anthropic)** — used as an AI-assisted development tool for implementation. Problem definition, EU AI Act research, testing methodology, defect reports, and all design decisions were made by the author.
+- **Claude AI (Anthropic)** — used as an AI-assisted development tool for implementation.
+- Problem definition, EU AI Act research, testing methodology, defect reports, and all design decisions were made by the author.
 
 ---
 
